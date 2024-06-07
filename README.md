@@ -90,10 +90,3 @@ These various text preprocessing steps are widely used for dimensionality reduct
 
 Learn more about - [Text Preprocessing in Natural Language Processing](https://towardsdatascience.com/text-preprocessing-in-natural-language-processing-using-python-6113ff5decd8)
 
-
-## Contribution
-
-* If you have better idea and want to update this tool. please contribute to this project.
-
-
-<center> <h3><a href = "https://keywordextract.streamlit.app/">Try this tool Online</a>
